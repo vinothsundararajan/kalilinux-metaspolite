@@ -77,4 +77,4 @@ after it get connected with android we can give the following commands to collec
 
 Here, i have attached android.apk Please do this your own risk.
 
-### Its tutorial only for education purpose only.
+### This tutorial only for education purpose only.
